@@ -16,6 +16,7 @@ Settings_001
     Provided precondition
     launch app    Settings
 ## this is a comment
+## this is another comment
 
 Settings_002
     [Documentation]    Install Swiggy app
